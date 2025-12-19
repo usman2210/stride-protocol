@@ -1,7 +1,7 @@
-# stride-protocol
+# strid3-protocol
 Onchain engagement and reputation infrastructure for communities
-# Stride
-Stride is an onchain engagement and reputation infrastructure that enables communities to track contributions, reward participation, and build long-term onchain reputation.
+# Strid3
+Strid3 is an onchain engagement and reputation infrastructure that enables communities to track contributions, reward participation, and build long-term onchain reputation.
 
 The project focuses on transforming offchain community activity into measurable onchain progress using XP, badges, and transparent reward distribution.
 
@@ -38,7 +38,7 @@ Stride provides a unified onchain layer that allows communities to:
 
 ## 🚧 Project Status
 
-Stride is currently in **early development / MVP planning**.
+Strid3 is currently in **early development / MVP planning**.
 
 Initial work includes:
 - UX and flow design
